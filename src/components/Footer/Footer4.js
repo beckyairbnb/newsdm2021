@@ -16,29 +16,18 @@ const Footer = ({ className, ...rest }) => {
           <div className="border-top border-default-color dark-mode-texts d-flex align-items-center justify-content-center justify-content-sm-between flex-column flex-sm-row flex-wrap pt-9">
             <div>
               <ul className="d-flex align-items-center list-unstyled mb-5 mb-sm-0">
-
                 <li>
                   <Link
-                    to="/process"
+                    to="/privacy"
                     className="pr-5 text-stone gr-hover-text-dodger-blue-1 font-size-5 pr-12"
                   >
-                    Process
+                    Privacy
                   </Link>
-                </li>
-                <li>
                   <Link
-                    to="/customer"
+                    to="/terms"
                     className="pr-5 text-stone gr-hover-text-dodger-blue-1 font-size-5 pr-12"
                   >
-                    Customers
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    to="/pricing"
-                    className="pr-5 text-stone gr-hover-text-dodger-blue-1 font-size-5 pr-12"
-                  >
-                    Pricing
+                    Terms
                   </Link>
                 </li>
               </ul>
