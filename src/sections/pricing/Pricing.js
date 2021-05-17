@@ -53,7 +53,7 @@ const Pricing = () => {
             </ul>
 
             <div className="pt-7 pt-lg-17">
-              <a className="btn btn-buttercup btn-2 rounded-5" href="/contact">
+              <a className="btn btn-buttercup btn-2 rounded-5" href="https://subscriptions.zoho.eu/subscribe/d0373aed2739943280f92d34113506923a6d68d7c11a9a14651bdda4a1c7d344/Basic">
                 Work with us
               </a>
             </div>
@@ -108,7 +108,7 @@ const Pricing = () => {
             </ul>
 
               <div className="pt-7 pt-lg-17">
-                <a className="btn btn-buttercup btn-2 rounded-5" href="/contact">
+                <a className="btn btn-buttercup btn-2 rounded-5" href="https://subscriptions.zoho.eu/subscribe/d0373aed2739943280f92d34113506923a6d68d7c11a9a14651bdda4a1c7d344/Growth">
                   Work with us
                 </a>
               </div>
@@ -150,7 +150,7 @@ const Pricing = () => {
               </ul>
 
               <div className="pt-7 pt-lg-17">
-                <a className="btn btn-buttercup btn-2 rounded-5" href="/contact">
+                <a className="btn btn-buttercup btn-2 rounded-5" href="https://subscriptions.zoho.eu/subscribe/d0373aed2739943280f92d34113506923a6d68d7c11a9a14651bdda4a1c7d344/Data">
                   Work with us
                 </a>
               </div>
