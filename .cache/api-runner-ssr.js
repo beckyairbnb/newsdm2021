@@ -5,6 +5,9 @@ var plugins = [{
       plugin: require('/Users/becky/finity-gatsby/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"pure":false},
     },{
+      plugin: require('/Users/becky/finity-gatsby/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      options: {"plugins":[],"trackingId":"UA-127625937-1","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
+    },{
       plugin: require('/Users/becky/finity-gatsby/node_modules/gatsby-plugin-crisp-chat/gatsby-ssr'),
       options: {"plugins":[],"websiteId":"baad053f-4aa3-4ba7-81c2-540fe4ea2127","enableDuringDevelop":false,"defer":true,"enableImprovedAccessibility":false},
     },{

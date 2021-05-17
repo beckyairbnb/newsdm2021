@@ -11,6 +11,13 @@ module.exports = {
     `gatsby-transformer-remark`,
     `gatsby-plugin-react-helmet`,
     {
+     resolve: `gatsby-plugin-google-analytics`,
+     options: {
+       // The property ID; the tracking code won't be generated without it
+       trackingId: "UA-127625937-1",
+     },
+   },
+    {
   resolve: 'gatsby-plugin-crisp-chat',
   options: {
     websiteId: 'baad053f-4aa3-4ba7-81c2-540fe4ea2127',
