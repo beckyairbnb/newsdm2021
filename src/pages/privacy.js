@@ -10,7 +10,7 @@ const Privacy = () => {
           headerClassName: "site-header--menu-right",
           headerButton: (
             <>
-            <a className="btn btn-buttercup btn-sm rounded-5" href={"/contact"}>
+            <a className="btn btn-buttercup btn-sm rounded-5" href={"/pricing"}>
               Work with us
             </a>
             </>

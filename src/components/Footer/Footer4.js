@@ -29,7 +29,15 @@ const Footer = ({ className, ...rest }) => {
                   >
                     Terms
                   </Link>
+                  <Link
+                    to="/contact"
+                    className="pr-5 text-stone gr-hover-text-dodger-blue-1 font-size-5 pr-12"
+                  >
+                    Contact Us
+                  </Link>
                 </li>
+
+
               </ul>
             </div>
             <div>
